@@ -1,0 +1,16 @@
+{
+  "chormiumBinary": "/usr/bin/chromium-browser",
+  "slots": [
+    {
+      "run_at": "11:59:58",
+      "traject": "17:30",
+      "destination": "Bab El Gharbi"
+    },
+    {
+      "run_at": "15:59:58",
+      "traject": "10:20",
+      "destination": "Campus"
+    }
+  ],
+  "test_slot": "19:00"
+}

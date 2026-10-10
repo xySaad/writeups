@@ -6,6 +6,7 @@
 
 # Vulnerabilities I found
 
-| Service           | Category              | Description                               | Writeup                                      |
-| ----------------- | --------------------- | ----------------------------------------- | -------------------------------------------- |
-| REDACTED's git | broken access control | limited access to gitea through intra api | [link](./broken_access_control/) |
+| Service                   | Category                      | Description                                            | Writeup                          |
+| ------------------------- | ----------------------------- | ------------------------------------------------------ | -------------------------------- |
+| REDACTED's git            | broken access control         | limited access to gitea through intra api              | [link](./broken_access_control/) |
+| REDACTED's transportation | Broken Anti-Automation + IDOR | bypassing captcha and access private candidate details | [link](./transportation/)        |
